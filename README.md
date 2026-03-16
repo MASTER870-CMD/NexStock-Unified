@@ -20,7 +20,6 @@
 Finding the perfect asset shouldn't break your flow state. NexStock takes the massive libraries of **Pixabay** and **Pexels**, merges them into a single search bar, and handles both high-res photos and 4K footage. 
 
 But it doesn't stop at search. I baked a full developer toolkit right into the sidebar so you can manipulate those assets on the fly. 
-## Project Screen Shot
 
 ## ✨ The Core Features
 
@@ -52,7 +51,7 @@ Want to run this locally? It's literally just one file, but you'll need to plug 
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/yourusername/nexstock-dev-suite.git](https://github.com/yourusername/nexstock-dev-suite.git)
+   git clone [https://github.com/MASTER870-CMD/nexstock-dev-suite.git](https://github.com/yourusername/nexstock-dev-suite.git)
 Open the file: Open index.html in your favorite code editor.
 
 Add your API Keys: Find the KEYS object at the top of the <script> tag and paste in your developer keys for Pexels, Pixabay, and Remove.bg.
